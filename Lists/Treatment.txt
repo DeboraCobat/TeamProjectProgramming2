@@ -1,0 +1,12 @@
+2022-11-06;ARJUN DHAKAL;ALEX COANDA;Headache and fever since 5 days;BP 80/120, Oxygen level 82;none;none;none;none;none
+2022-11-07;RAM KUMAR;ALEX COANDA;fever for 5 days;BP 60/100, pulse rate 100, oxygen level 95;none;tyanol 400 mg every 8 hours for 4 days;take rest;none;none
+2022-11-08;MARK DUMOSHAL;UPPENDRA DEVKOTA;Headache and fever since a week;BP 82/125, pulse rate 90;blood test;none;none;none;none
+2022-11-28;SAKSHAM DHAKAL;ALEX COANDA;fever for 5 days;BP 60/100, pulse rate 100, oxygen level 95;none;tyanol 400 mg every 8 hours for 4 days;take rest;none;none
+2022-12-01;ARJUN DHAKAL;ALEX COANDA;having fever since 6 days;BP 80/120, Oxygen level 82;none;none;none;none;none
+2022-12-02;DAVE LYNCH;ALEX COANDA;fever for 5 days;BP 60/100, pulse rate 100, oxygen level 95;none;tyanol 400 mg every 8 hours for 4 days;take rest;none;none
+2022-12-03;ARJUN DHAKAL;ALEX COANDA;having fever since 7 days;BP 80/120, Oxygen level 82;none;none;none;none;none
+2022-12-04;MARK DUMOSHAL;UPPENDRA DEVKOTA;Headache and fever since a week;BP 82/125, pulse rate 90;blood test;none;none;none;none
+2022-12-05;RAM KUMAR;DEBORA BASTOS;Cold cough, headache since 8 days;BP 75/120, pulse rate 85;none;none;none;none;none
+2022-12-06;MARK DUMOSHAL;UPPENDRA DEVKOTA;Headache and fever since a week;BP 82/125, pulse rate 90;blood test;none;none;none;none
+2022-12-07;DAVE LYNCH;DEBORA BASTOS;fever and cough since 2 days;BP 70/110, pulse 105;none;Advil 300mg 4 times a day;none;none;none
+2022-12-08;SAKSHAM DHAKAL;ABBOTT LAURA;fever, cold, loss of weight;BP 60/110, pulse rate 110, oxygen level 95;blood test, urine test, covid test, X-ray;Advil 285mg every 6 hours, tyanol 400mg every 6 hours for 3 days;take rest, drink more liquid;none;advice to come back if fever don't go away
